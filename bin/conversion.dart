@@ -1,7 +1,7 @@
 void main() {
-
-  var vInputString = '100' ;
-  var vInputInt = int.parse(vInputString) ;
+  // mengubah niali int ke double (sebaliknya)
+  var vInputString = '100' ; // value dalam kutip harus berupa angka
+  var vInputInt = int.parse(vInputString) ; // mengubah 
   var vInputDouble = double.parse(vInputString) ;
 
   print(vInputString);
