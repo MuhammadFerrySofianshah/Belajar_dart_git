@@ -3,6 +3,7 @@ void main(){
   // false dengan true = true 
   // jika nilai 1 = true dan nilai 2 = false, hasilnya akan menjadi true. Ini merupakan prinsip dasar dari logika boolean.
 
+  // contoh 1
   int nilaiAkhir = 80 ;
   int nilaiAbsen = 65 ;
 
