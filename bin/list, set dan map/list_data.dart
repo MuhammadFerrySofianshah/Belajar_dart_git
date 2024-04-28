@@ -1,13 +1,19 @@
 void main() {
-  // list mirip seperti array dlm bahasa pemrograman lain
-  // ada 2 cara pembuatan list
+  // 1. list ada index
+  // 2. list menggunakan []
+  // 3. list mirip dengan set
+  // 4. list mirip seperti array dlm bahasa pemrograman lain
+  // 5. Elemen dalam List dapat duplikat, artinya kita dapat memiliki beberapa elemen dengan nilai yang sama.
 
+  // ada 2 cara pembuatan list
   // cara 1
   /* List<int> buatList = []; */
   // cara 2
   /*  var buatList2 = <dynamic>[]; */
 
-  final testAja = <String>[];
+  final testAja = <String>[
+    
+  ];
 
   // create
   // penulissan serperti ini tidak ada bedanya dengan menampilkan print biasa
