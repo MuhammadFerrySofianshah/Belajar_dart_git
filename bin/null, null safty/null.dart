@@ -19,6 +19,6 @@ void main(List<String> args) {
   String namaKamu;
   String? namaAnda;
 
-  print(namaKamu); // error
+  // print(namaKamu); // error
   print(namaAnda); // null
 }
