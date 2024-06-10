@@ -8,6 +8,7 @@ void main(List<String> args) {
   2. Kondisi akan dilakukan pengecekan dalam setiap perulangan, jika true perulangan akan dilakukan, jika false perulangan akan berhenti
   3. Post statement akan diekseskusi disetiap kali akhir perulangan
   4. Init statement, kondisi dan post Statement tidak wajib diisi, jika kondisi tidak diisi, berarti konidisi slalu bernilai true.
+  5. Jadi dalam for harus lengkap antara init, kondisi, post
   */
 
   // for loop
