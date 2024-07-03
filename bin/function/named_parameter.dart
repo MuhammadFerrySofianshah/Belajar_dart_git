@@ -6,6 +6,6 @@ void namedParameter({String? firstName, String? lastName}) {
   print('nama Saya: $firstName $lastName');
 }
 
-void main(List<String> args) {
+void main() {
   namedParameter(firstName: 'ferry', lastName: 'sofian');
 }
